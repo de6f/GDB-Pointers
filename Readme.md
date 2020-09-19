@@ -1,6 +1,6 @@
 
 
-# Options
+# Options
 
 You can execute `pointers` command without any parameters to see help below:
 
